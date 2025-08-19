@@ -11,12 +11,6 @@
 - Selenium：爬蟲、流程自動化
 - Google API：試算表、自動化報表
 - Git & GitHub：版本控制與協作  
-
----
-
-## 📂 精選作品
-- 🔗 [加密貨幣價格追蹤器](https://github.com/yourname/crypto-tracker)  
-
 ---
 
 ## 📫 聯絡方式
